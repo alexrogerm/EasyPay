@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --gradient: hsl(236, 72%, 79%), hsl(237, 63%, 64%);
+    --purple: hsl(237, 63%, 64%);
+    --very-light-grayish-blue: hsl(240, 78%, 98%);
+    --light-grayish-blue: hsl(234, 14%, 74%);
+    --grayish-blue: hsl(233, 13%, 49%);
+    --dark-grayish-blue: hsl(232, 13%, 33%);
+    --white: white;
+    --body-font: "Poppins", sans-serif;
+    --transition: all ease-in-out 0.3s;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+  
+html {
+    font-size: 15px;
+}
+
